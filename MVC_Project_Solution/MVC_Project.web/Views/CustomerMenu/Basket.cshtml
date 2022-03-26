@@ -1,0 +1,59 @@
+﻿ @model List<OrderItem>
+  <table  class="table table-bordered table-hover" width="50%">
+      <tr>
+       <th>
+            ITEM
+        </th>
+        <th>
+            QUANTITY	
+        </th>
+        <th>
+            UNIT PRICE	
+        </th>
+        <th>
+   right SUBTOTAL	
+        </th></tr>
+   @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="~/images/@item.Food.Image"style="height:6rem;width:8rem;display:inline" />
+                <p style="display:inline;margin-left:10px">@item.Food.Description</p>
+                
+            </td>
+            <td>@item.quantity</td>
+           <td>@item.Food.Price</td>
+            <td>@item.Total_item_price</td>
+            <form action="\CustomerMenu\DeleteItem\@item.Order_Id">
+                <input type="hidden" name="FoodId" value="@item.Food_Id" >
+               <td><input type="submit" class="btn btn-danger del" value="Delete" ></td>
+            </form>
+        </tr>
+    }
+</table>
+<div style="margin:30px 0px 50px 170px">
+           <h3 style="display:inline-block;margin-right:480px"> Total Price : EGP @ViewBag.TotalPrice</h3>
+           <label for="payment">Select Payment Method</label>
+    <select style="margin-right:100px" id="payment"  ">
+           @foreach (var Item in ViewBag.Payment)
+            {
+               
+                    <option value="@Item.Id" >@Item.Type</option>
+                
+           }
+        </select>
+       <a class="btn btn-success" href="\CustomerMenu\Checkout">Confirm the Order</a>
+    </div>
+             <script>
+                 var deletebtn=document.getElementsByClassName("del");
+                 for(var i=0;i<deletebtn.length;i++)
+                 {
+                       deletebtn[i].addEventListener("click",function(e){
+                           var res =confirm("Do you want to delete this Item?")
+                           if(res==false){
+                               e.preventDefault();
+                           }
+                       });
+                 }
+
+             </script>

@@ -1,0 +1,133 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\style.css.map" />
+    <None Include="wwwroot\css\style.scss" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\js\admin.js" />
+    <None Include="wwwroot\js\bootstrap.js" />
+    <None Include="wwwroot\js\custom.js" />
+    <None Include="wwwroot\js\demo.js" />
+    <None Include="wwwroot\js\helpers.js" />
+    <None Include="wwwroot\js\jquery-3.4.1.min.js" />
+    <None Include="wwwroot\js\script.js" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.map" />
+    <None Include="wwwroot\plugins\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\plugins\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\plugins\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\plugins\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\plugins\bootstrap\js\npm.js" />
+    <None Include="wwwroot\plugins\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\plugins\jquery-validation\additional-methods.js" />
+    <None Include="wwwroot\plugins\jquery-validation\jquery.validate.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_ar.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_az" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_bg.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_bn_BD.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_ca.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_cs.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_da.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_de.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_el.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_es.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_es_AR.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_es_PE.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_et.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_eu.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_fa.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_fi.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_fr.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_ge.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_gl.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_he.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_hr.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_hu.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_hy_AM.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_id.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_is.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_it.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_ja.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_ka.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_kk.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_ko.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_lt.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_lv.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_mk.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_my.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_nl.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_no.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_pl.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_pt_BR.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_pt_PT.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_ro.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_ru.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_si.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_sk.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_sl.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_sr.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_sr_lat.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_sv.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_th.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_tj.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_tr.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_uk.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_vi.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_zh.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\messages_zh_TW.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\methods_de.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\methods_es_CL.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\methods_fi.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\methods_nl.js" />
+    <None Include="wwwroot\plugins\jquery-validation\localization\methods_pt.js" />
+    <None Include="wwwroot\plugins\jquery\jquery.js" />
+    <None Include="wwwroot\plugins\jquery\jquery.min.js" />
+    <None Include="wwwroot\plugins\jquery\jquery.min.map" />
+    <None Include="wwwroot\plugins\node-waves\waves.js" />
+    <None Include="wwwroot\plugins\node-waves\waves.min.js" />
+    <None Include="wwwroot\plugins\node-waves\waves.min.js.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MVC_Project.Core\MVC_Project.Core.csproj" />
+    <ProjectReference Include="..\MVC_Project.EF\MVC_Project.EF.csproj" />
+  </ItemGroup>
+
+</Project>

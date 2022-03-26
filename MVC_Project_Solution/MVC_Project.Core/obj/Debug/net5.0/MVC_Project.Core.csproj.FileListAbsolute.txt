@@ -1,0 +1,35 @@
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.deps.json
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.dll
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\ref\MVC_Project.Core.dll
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.pdb
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.csproj.AssemblyReference.cache
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.AssemblyInfoInputs.cache
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.AssemblyInfo.cs
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.csproj.CoreCompileInputs.cache
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.dll
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\ref\MVC_Project.Core.dll
+D:\iti .net\Asp.Net Core MVC\mvcproject\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.pdb
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.deps.json
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.dll
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\ref\MVC_Project.Core.dll
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.pdb
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.AssemblyInfoInputs.cache
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.AssemblyInfo.cs
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.dll
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\ref\MVC_Project.Core.dll
+C:\Users\Infotech\Documents\GitHub\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.pdb
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.deps.json
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.dll
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\ref\MVC_Project.Core.dll
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\bin\Debug\net5.0\MVC_Project.Core.pdb
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.csproj.AssemblyReference.cache
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.AssemblyInfoInputs.cache
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.AssemblyInfo.cs
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.csproj.CoreCompileInputs.cache
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.dll
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\ref\MVC_Project.Core.dll
+E:\ITI\asp.net mvc core\Final Project\MVC_Prroject\MVC_Project_Solution\MVC_Project.Core\obj\Debug\net5.0\MVC_Project.Core.pdb
